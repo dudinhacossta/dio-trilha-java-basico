@@ -1,2 +1,2 @@
-# dio-trilha-java-basico
+# _dio-trilha-java-basico_
 Repositório para fins de guardar os projetos desenvolvidos durante o curso de java na dio.
