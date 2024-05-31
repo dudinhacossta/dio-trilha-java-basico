@@ -2,7 +2,7 @@
     boolean ligada = false;
     int volume = 33;
     int canal = 58;
-    
+    double numero = 30.0;
     public void mudarCanal (int novoCanal){
       canal = novoCanal;
     }
