@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "DesafioControleFluxo.Contador",
+            "projectName": "dio-trilha-java-basico_452ec617"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "candidatura.ProcessoSeletivo",
+            "projectName": "dio-trilha-java-basico_452ec617"
+        },
+        {
+            "type": "java",
+            "name": "analisandoCandidato",
+            "request": "launch",
+            "mainClass": "ProcessoSeletivo.analisandoCandidato",
+            "projectName": "dio-trilha-java-basico_452ec617"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
